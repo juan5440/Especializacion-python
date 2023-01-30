@@ -1,0 +1,1 @@
+print("Hola universo", 7, False, 12.34)
